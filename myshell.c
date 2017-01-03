@@ -1,7 +1,7 @@
-/*	*	*	*	*	*	*	*	*	* * * * * * * * * * * * * * * * * * * * *
+/*	*	*	*	*	*	*	*	*	* 
  * Unix Shell myshell	-	Author: Peter Lorei (pnl4@pitt.edu)	*
- * CS 449 Project 5	-	Due: 12/8/14 													*
- *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	* *	*	*	*	*/
+ * CS 449 Project 5	-	Due: 12/8/14 				*									*
+ *	*	*	*	*	*	*	*	*	*/
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
